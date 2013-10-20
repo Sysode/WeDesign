@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<!-- Title here -->
-		<title>SiteName &middot; site Motto</title>
+		<title>SiteName &middot; site Motto 2</title>
 		<!-- Description, Keywords and Author -->
 		<meta name="description" content="Description for your site">
 		<meta name="keywords" content="Site Keywords">
