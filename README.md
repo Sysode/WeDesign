@@ -16,5 +16,5 @@ can be used for a wide variety of different sites with ease.
 
 Wanting to help out? Here are a few ways that you can
 
-Check out my [http://reecematthews.me](Portfolio);
-Follow me on [http://twitter.com/Sysode](Twitter.com/Sysode)
+*     Check out my [http://reecematthews.me](Portfolio);
+*     Follow me on [http://twitter.com/Sysode](Twitter.com/Sysode)
